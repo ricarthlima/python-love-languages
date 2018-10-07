@@ -1,0 +1,2 @@
+def amor:
+    return "love"
